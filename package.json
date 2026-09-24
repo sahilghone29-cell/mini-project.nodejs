@@ -1,0 +1,21 @@
+{
+  "name": "q10-event-registration",
+  "version": "1.0.0",
+  "description": "Event registration API saved in registrations.json for college Tech Fest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "event-registration",
+    "json-storage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
